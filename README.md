@@ -1,4 +1,4 @@
-# Melanoma-CNN-Prediction
+# Predict Melanoma using CNN
 
 ## Problem Statement
 In this assignment, you will build a multiclass classification model using a custom convolutional neural network in tensorflow. 
